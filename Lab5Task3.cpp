@@ -63,7 +63,7 @@ public:
 			return temp;
 		}
 		else
-			cout << "Queue is empty" << endl;
+			cout << "Empty Queue" << endl;
 		return -99;
 	}
 	int First_ele()//returns first element of queue without dequeuing
