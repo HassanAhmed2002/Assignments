@@ -1,2 +1,2 @@
 # UniversityAssignments
-Code for university stuff
+University Stuff
