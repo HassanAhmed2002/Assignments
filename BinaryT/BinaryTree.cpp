@@ -51,7 +51,7 @@ class bt
         }
         else
         {
-            cout<<"Binary Tree is empty"<<endl;
+            cout<<"Tree is empty"<<endl;
         }
     }
     void insert(int value)
